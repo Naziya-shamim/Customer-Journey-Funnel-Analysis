@@ -54,9 +54,9 @@ E-commerce and marketing teams need to understand where customers drop off in th
 - Win-back Churned customers (30% off + free shipping)
 
 ## 📸 Dashboard Screenshots
-![Dashboard Overview](Dashboard_Overview.png)
-![Insights Page](Insight_Page.png)
+![Dashboard Overview](https://raw.githubusercontent.com/Naziya-shamim/Customer-Journey-Funnel-Analysis/main/Dashboard_Overview.png)
 
+![Insights Page](https://raw.githubusercontent.com/Naziya-shamim/Customer-Journey-Funnel-Analysis/main/Insight_Page.png)
 ## 📁 Files in Repository
 - `Dataset/customer_journey_data.csv`
 - `PowerBI/Customer_Journey_Funnel_Analysis.pbix`
