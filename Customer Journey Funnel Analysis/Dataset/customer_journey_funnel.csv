@@ -1,0 +1,201 @@
+Customer ID,Customer Name,Customer Segment,Age Group,Region,Acquisition Channel,Campaign Name,Website Visit Date,Page Views,Product Viewed,Add to Cart,Checkout Started,Purchase Completed,Purchase Value,Session Duration,Bounce Status,Customer Feedback Score,Customer Retention Status,Funnel Stage,Conversion Status
+C001,Aarav Sharma 1,Lost,60+,South,Direct,Referral Program,21-02-2025,46,Yes,No,No,No,0,2691,No,5,Churned,Product Viewed,Not Converted
+C002,Vivaan Sharma 2,Regular,18-25,West,Paid Search,Winter Sale,17-01-2025,22,Yes,No,No,No,0,2440,No,4,Active,Product Viewed,Not Converted
+C003,Aditya Sharma 3,Loyal,18-25,South,Paid Search,Summer Sale,09-01-2025,22,Yes,Yes,No,No,0,907,No,5,At Risk,Add to Cart,Not Converted
+C004,Vihaan Sharma 4,At Risk,60+,West,Email Marketing,Winter Sale,02-05-2025,27,Yes,Yes,Yes,Yes,31106,251,No,7,Active,Purchase Completed,Converted
+C005,Arjun Sharma 5,Loyal,18-25,South,Paid Search,Winter Sale,18-02-2025,35,Yes,Yes,Yes,Yes,5440,1845,No,7,Active,Purchase Completed,Converted
+C006,Reyansh Sharma 6,Lost,18-25,East,Organic Search,Winter Sale,12-02-2025,27,Yes,Yes,Yes,Yes,25336,38,No,10,At Risk,Purchase Completed,Converted
+C007,Ayaan Sharma 7,VIP,46-60,North,Social Media,New Year Campaign,23-05-2025,43,Yes,Yes,Yes,No,0,2402,No,5,At Risk,Checkout Started,Not Converted
+C008,Krishna Sharma 8,New,60+,North,Email Marketing,Newsletter,16-05-2025,11,Yes,No,No,No,0,791,No,3,Active,Product Viewed,Not Converted
+C009,Ishaan Sharma 9,Loyal,26-35,South,Email Marketing,Summer Sale,26-05-2025,16,Yes,Yes,Yes,No,0,2345,No,7,Churned,Checkout Started,Not Converted
+C010,Shaurya Sharma 10,New,36-45,North,Paid Search,Diwali Campaign,12-04-2025,9,Yes,Yes,Yes,No,0,327,No,5,Active,Checkout Started,Not Converted
+C011,Anaya Sharma 11,Lost,18-25,East,Organic Search,Newsletter,24-02-2025,33,Yes,No,No,No,0,311,No,4,Churned,Product Viewed,Not Converted
+C012,Diya Sharma 12,New,60+,West,Direct,Diwali Campaign,06-06-2025,42,Yes,No,No,No,0,2301,No,5,Churned,Product Viewed,Not Converted
+C013,Aadhya Sharma 13,New,26-35,East,Social Media,Summer Sale,28-01-2025,48,Yes,Yes,Yes,No,0,863,No,7,Active,Checkout Started,Not Converted
+C014,Myra Sharma 14,Regular,18-25,South,Organic Search,Referral Program,19-04-2025,18,Yes,Yes,Yes,No,0,691,No,8,Active,Checkout Started,Not Converted
+C015,Sara Sharma 15,Regular,18-25,East,Organic Search,Summer Sale,08-02-2025,35,Yes,Yes,Yes,Yes,3241,1292,No,9,Churned,Purchase Completed,Converted
+C016,Kiara Sharma 16,VIP,18-25,West,Social Media,Winter Sale,05-03-2025,43,Yes,No,No,No,0,1694,No,7,At Risk,Product Viewed,Not Converted
+C017,Anika Sharma 17,Lost,26-35,North,Paid Search,Winter Sale,16-04-2025,2,Yes,No,No,No,0,1716,No,4,At Risk,Product Viewed,Not Converted
+C018,Riya Sharma 18,VIP,18-25,East,Email Marketing,Summer Sale,01-05-2025,15,Yes,No,No,No,0,1462,No,5,At Risk,Product Viewed,Not Converted
+C019,Siya Sharma 19,At Risk,26-35,North,Organic Search,Referral Program,19-02-2025,26,Yes,No,No,No,0,1173,No,5,At Risk,Product Viewed,Not Converted
+C020,Meera Sharma 20,Regular,60+,North,Social Media,Summer Sale,30-01-2025,17,Yes,No,No,No,0,1117,No,3,Active,Product Viewed,Not Converted
+C021,Aarav Verma 21,Regular,36-45,East,Email Marketing,Newsletter,11-05-2025,8,Yes,No,No,No,0,1073,No,3,At Risk,Product Viewed,Not Converted
+C022,Vivaan Verma 22,New,60+,North,Direct,Referral Program,20-02-2025,24,Yes,No,No,No,0,1382,No,7,Active,Product Viewed,Not Converted
+C023,Aditya Verma 23,At Risk,36-45,North,Referral,Diwali Campaign,15-04-2025,21,Yes,Yes,Yes,Yes,25347,2804,No,8,At Risk,Purchase Completed,Converted
+C024,Vihaan Verma 24,Regular,60+,East,Organic Search,Diwali Campaign,15-03-2025,14,Yes,No,No,No,0,2711,No,5,Active,Product Viewed,Not Converted
+C025,Arjun Verma 25,Regular,26-35,West,Referral,New Year Campaign,13-02-2025,43,Yes,No,No,No,0,2622,No,7,Active,Product Viewed,Not Converted
+C026,Reyansh Verma 26,At Risk,26-35,West,Direct,Diwali Campaign,27-02-2025,13,Yes,Yes,No,No,0,2533,No,4,Active,Add to Cart,Not Converted
+C027,Ayaan Verma 27,At Risk,60+,North,Paid Search,Referral Program,09-04-2025,32,Yes,Yes,No,No,0,466,No,7,Active,Add to Cart,Not Converted
+C028,Krishna Verma 28,At Risk,60+,South,Email Marketing,Summer Sale,23-05-2025,16,No,No,No,No,0,527,No,4,Active,Website Visit,Not Converted
+C029,Ishaan Verma 29,Regular,60+,North,Referral,Newsletter,23-03-2025,49,No,No,No,No,0,2539,No,5,Active,Website Visit,Not Converted
+C030,Shaurya Verma 30,At Risk,46-60,West,Paid Search,Referral Program,02-05-2025,29,Yes,Yes,Yes,No,0,2165,No,8,At Risk,Checkout Started,Not Converted
+C031,Anaya Verma 31,Regular,18-25,North,Direct,Diwali Campaign,02-03-2025,18,Yes,No,No,No,0,360,No,4,Active,Product Viewed,Not Converted
+C032,Diya Verma 32,Regular,26-35,East,Direct,Winter Sale,17-01-2025,27,Yes,No,No,No,0,1733,No,3,Active,Product Viewed,Not Converted
+C033,Aadhya Verma 33,Regular,60+,North,Direct,Summer Sale,28-05-2025,25,Yes,No,No,No,0,1253,No,6,Churned,Product Viewed,Not Converted
+C034,Myra Verma 34,Lost,46-60,North,Referral,Referral Program,20-05-2025,39,No,No,No,No,0,2029,No,2,At Risk,Website Visit,Not Converted
+C035,Sara Verma 35,Regular,46-60,East,Social Media,Referral Program,14-04-2025,47,Yes,No,No,No,0,552,No,7,Active,Product Viewed,Not Converted
+C036,Kiara Verma 36,At Risk,60+,South,Referral,Referral Program,07-01-2025,6,Yes,Yes,Yes,Yes,25344,1370,No,8,Active,Purchase Completed,Converted
+C037,Anika Verma 37,Regular,46-60,South,Social Media,New Year Campaign,06-03-2025,6,Yes,No,No,No,0,243,No,5,Active,Product Viewed,Not Converted
+C038,Riya Verma 38,New,18-25,West,Organic Search,Winter Sale,21-02-2025,2,Yes,Yes,Yes,Yes,14784,1934,No,9,At Risk,Purchase Completed,Converted
+C039,Siya Verma 39,New,60+,North,Direct,Referral Program,30-01-2025,50,No,No,No,No,0,1304,No,1,Active,Website Visit,Not Converted
+C040,Meera Verma 40,Lost,60+,West,Direct,New Year Campaign,12-04-2025,46,Yes,No,No,No,0,2599,No,4,At Risk,Product Viewed,Not Converted
+C041,Aarav Patel 41,VIP,60+,West,Organic Search,Newsletter,11-01-2025,23,Yes,No,No,No,0,312,No,7,At Risk,Product Viewed,Not Converted
+C042,Vivaan Patel 42,New,46-60,South,Email Marketing,Summer Sale,21-04-2025,24,Yes,No,No,No,0,2927,No,4,Active,Product Viewed,Not Converted
+C043,Aditya Patel 43,VIP,36-45,North,Referral,Newsletter,04-05-2025,30,Yes,No,No,No,0,1129,No,5,Churned,Product Viewed,Not Converted
+C044,Vihaan Patel 44,At Risk,18-25,East,Social Media,New Year Campaign,04-03-2025,49,Yes,No,No,No,0,1582,No,5,Active,Product Viewed,Not Converted
+C045,Arjun Patel 45,At Risk,26-35,West,Email Marketing,Winter Sale,01-04-2025,17,Yes,No,No,No,0,2902,No,5,Active,Product Viewed,Not Converted
+C046,Reyansh Patel 46,Regular,26-35,North,Organic Search,Winter Sale,15-04-2025,32,Yes,Yes,Yes,No,0,1865,No,5,Active,Checkout Started,Not Converted
+C047,Ayaan Patel 47,New,26-35,East,Social Media,Referral Program,29-05-2025,24,Yes,No,No,No,0,1772,No,7,Active,Product Viewed,Not Converted
+C048,Krishna Patel 48,Loyal,36-45,South,Social Media,Diwali Campaign,01-03-2025,8,Yes,Yes,No,No,0,2856,No,5,Active,Add to Cart,Not Converted
+C049,Ishaan Patel 49,VIP,36-45,South,Direct,Newsletter,15-05-2025,39,Yes,Yes,Yes,Yes,12259,1268,No,7,At Risk,Purchase Completed,Converted
+C050,Shaurya Patel 50,New,18-25,South,Organic Search,Newsletter,16-03-2025,45,No,No,No,No,0,2642,No,4,Active,Website Visit,Not Converted
+C051,Anaya Patel 51,New,36-45,South,Email Marketing,New Year Campaign,23-04-2025,22,Yes,Yes,No,No,0,1986,No,4,At Risk,Add to Cart,Not Converted
+C052,Diya Patel 52,Regular,18-25,South,Referral,Referral Program,14-01-2025,10,Yes,No,No,No,0,1274,No,3,Churned,Product Viewed,Not Converted
+C053,Aadhya Patel 53,New,46-60,South,Referral,Newsletter,08-06-2025,15,No,No,No,No,0,1588,No,4,Churned,Website Visit,Not Converted
+C054,Myra Patel 54,Regular,60+,East,Email Marketing,Diwali Campaign,26-05-2025,40,Yes,No,No,No,0,436,No,4,At Risk,Product Viewed,Not Converted
+C055,Sara Patel 55,Regular,18-25,North,Paid Search,Winter Sale,14-02-2025,36,Yes,Yes,Yes,No,0,1222,No,5,Active,Checkout Started,Not Converted
+C056,Kiara Patel 56,Loyal,46-60,North,Organic Search,Referral Program,01-03-2025,17,No,No,No,No,0,2590,No,5,At Risk,Website Visit,Not Converted
+C057,Anika Patel 57,Lost,46-60,West,Organic Search,Newsletter,27-02-2025,42,Yes,Yes,Yes,Yes,20659,2467,No,9,Churned,Purchase Completed,Converted
+C058,Riya Patel 58,Regular,36-45,West,Direct,New Year Campaign,11-03-2025,33,Yes,Yes,Yes,No,0,1350,No,7,Active,Checkout Started,Not Converted
+C059,Siya Patel 59,New,60+,North,Referral,Summer Sale,10-03-2025,37,Yes,No,No,No,0,1957,No,7,At Risk,Product Viewed,Not Converted
+C060,Meera Patel 60,At Risk,26-35,South,Referral,New Year Campaign,06-05-2025,6,Yes,Yes,Yes,Yes,11039,1380,No,10,At Risk,Purchase Completed,Converted
+C061,Aarav Reddy 61,Regular,46-60,South,Referral,Summer Sale,27-04-2025,6,Yes,Yes,No,No,0,1685,No,4,At Risk,Add to Cart,Not Converted
+C062,Vivaan Reddy 62,Regular,46-60,North,Organic Search,Winter Sale,13-05-2025,24,Yes,No,No,No,0,1840,No,3,Active,Product Viewed,Not Converted
+C063,Aditya Reddy 63,Regular,36-45,East,Email Marketing,Referral Program,05-05-2025,8,Yes,No,No,No,0,1010,No,4,Active,Product Viewed,Not Converted
+C064,Vihaan Reddy 64,New,46-60,West,Organic Search,Winter Sale,30-01-2025,30,No,No,No,No,0,2683,No,2,Active,Website Visit,Not Converted
+C065,Arjun Reddy 65,Loyal,60+,East,Direct,Diwali Campaign,17-04-2025,31,No,No,No,No,0,1028,No,4,Active,Website Visit,Not Converted
+C066,Reyansh Reddy 66,Regular,60+,South,Referral,Referral Program,04-02-2025,5,Yes,No,No,No,0,1729,No,5,Churned,Product Viewed,Not Converted
+C067,Ayaan Reddy 67,Regular,18-25,South,Social Media,Referral Program,18-03-2025,38,Yes,No,No,No,0,638,No,6,Active,Product Viewed,Not Converted
+C068,Krishna Reddy 68,Regular,60+,North,Referral,New Year Campaign,27-04-2025,21,No,No,No,No,0,2886,No,2,Active,Website Visit,Not Converted
+C069,Ishaan Reddy 69,New,46-60,North,Organic Search,Diwali Campaign,02-05-2025,46,No,No,No,No,0,1591,No,4,Churned,Website Visit,Not Converted
+C070,Shaurya Reddy 70,VIP,26-35,West,Email Marketing,Summer Sale,02-02-2025,33,No,No,No,No,0,1389,No,1,Churned,Website Visit,Not Converted
+C071,Anaya Reddy 71,Regular,60+,East,Email Marketing,Summer Sale,06-02-2025,27,No,No,No,No,0,662,No,1,Active,Website Visit,Not Converted
+C072,Diya Reddy 72,Lost,36-45,West,Referral,Referral Program,12-04-2025,42,Yes,Yes,No,No,0,2215,No,7,Churned,Add to Cart,Not Converted
+C073,Aadhya Reddy 73,Loyal,46-60,South,Referral,Summer Sale,08-06-2025,5,Yes,No,No,No,0,1207,No,4,At Risk,Product Viewed,Not Converted
+C074,Myra Reddy 74,Regular,18-25,South,Direct,Referral Program,26-01-2025,29,Yes,Yes,Yes,Yes,4177,1231,No,9,Active,Purchase Completed,Converted
+C075,Sara Reddy 75,New,60+,West,Email Marketing,Newsletter,16-02-2025,11,Yes,No,No,No,0,1596,No,7,At Risk,Product Viewed,Not Converted
+C076,Kiara Reddy 76,Regular,60+,North,Paid Search,Winter Sale,29-04-2025,41,Yes,Yes,Yes,No,0,1208,No,6,Active,Checkout Started,Not Converted
+C077,Anika Reddy 77,Lost,60+,South,Social Media,Referral Program,19-04-2025,45,Yes,No,No,No,0,845,No,6,Churned,Product Viewed,Not Converted
+C078,Riya Reddy 78,New,46-60,South,Referral,Diwali Campaign,28-05-2025,19,No,No,No,No,0,1239,No,1,Churned,Website Visit,Not Converted
+C079,Siya Reddy 79,Loyal,36-45,North,Organic Search,Newsletter,13-01-2025,39,Yes,No,No,No,0,1202,No,4,At Risk,Product Viewed,Not Converted
+C080,Meera Reddy 80,Regular,26-35,West,Referral,Diwali Campaign,05-02-2025,41,Yes,No,No,No,0,191,No,5,At Risk,Product Viewed,Not Converted
+C081,Aarav Gupta 81,New,36-45,South,Direct,Winter Sale,24-01-2025,19,Yes,Yes,Yes,No,0,1528,No,7,At Risk,Checkout Started,Not Converted
+C082,Vivaan Gupta 82,Regular,46-60,South,Social Media,Referral Program,28-03-2025,8,Yes,Yes,No,No,0,954,No,7,Churned,Add to Cart,Not Converted
+C083,Aditya Gupta 83,At Risk,36-45,South,Organic Search,New Year Campaign,04-01-2025,17,Yes,No,No,No,0,2785,No,5,Active,Product Viewed,Not Converted
+C084,Vihaan Gupta 84,At Risk,36-45,East,Organic Search,Referral Program,01-03-2025,31,Yes,No,No,No,0,2329,No,5,Churned,Product Viewed,Not Converted
+C085,Arjun Gupta 85,New,18-25,East,Direct,New Year Campaign,19-03-2025,42,Yes,Yes,No,No,0,1276,No,7,Active,Add to Cart,Not Converted
+C086,Reyansh Gupta 86,New,60+,North,Paid Search,New Year Campaign,27-04-2025,24,Yes,No,No,No,0,2242,No,6,Active,Product Viewed,Not Converted
+C087,Ayaan Gupta 87,Loyal,46-60,North,Direct,Summer Sale,06-05-2025,40,Yes,No,No,No,0,164,No,5,Active,Product Viewed,Not Converted
+C088,Krishna Gupta 88,Regular,26-35,East,Social Media,Summer Sale,05-04-2025,35,No,No,No,No,0,2671,No,3,Active,Website Visit,Not Converted
+C089,Ishaan Gupta 89,Regular,18-25,East,Email Marketing,Summer Sale,24-02-2025,42,Yes,No,No,No,0,237,No,5,Active,Product Viewed,Not Converted
+C090,Shaurya Gupta 90,New,60+,West,Paid Search,Summer Sale,22-05-2025,14,Yes,No,No,No,0,984,No,5,At Risk,Product Viewed,Not Converted
+C091,Anaya Gupta 91,VIP,60+,South,Organic Search,Diwali Campaign,07-02-2025,9,Yes,No,No,No,0,480,No,3,Active,Product Viewed,Not Converted
+C092,Diya Gupta 92,Regular,26-35,South,Referral,Diwali Campaign,05-01-2025,12,Yes,Yes,Yes,Yes,4665,1980,No,10,At Risk,Purchase Completed,Converted
+C093,Aadhya Gupta 93,Regular,18-25,East,Email Marketing,Newsletter,26-02-2025,40,Yes,No,No,No,0,2728,No,7,Active,Product Viewed,Not Converted
+C094,Myra Gupta 94,Loyal,18-25,South,Organic Search,New Year Campaign,13-04-2025,28,Yes,No,No,No,0,1846,No,3,Churned,Product Viewed,Not Converted
+C095,Sara Gupta 95,Regular,26-35,East,Organic Search,Winter Sale,12-03-2025,40,Yes,No,No,No,0,1361,No,6,Churned,Product Viewed,Not Converted
+C096,Kiara Gupta 96,Regular,46-60,South,Referral,Newsletter,21-04-2025,7,No,No,No,No,0,498,No,5,At Risk,Website Visit,Not Converted
+C097,Anika Gupta 97,New,46-60,North,Paid Search,New Year Campaign,28-03-2025,30,Yes,No,No,No,0,1310,No,6,Active,Product Viewed,Not Converted
+C098,Riya Gupta 98,Regular,26-35,West,Direct,New Year Campaign,18-01-2025,6,No,No,No,No,0,411,No,4,Active,Website Visit,Not Converted
+C099,Siya Gupta 99,VIP,26-35,South,Referral,Summer Sale,31-05-2025,36,Yes,No,No,No,0,1712,No,5,Churned,Product Viewed,Not Converted
+C100,Meera Gupta 100,Lost,46-60,North,Direct,Summer Sale,15-03-2025,39,Yes,Yes,Yes,Yes,32100,948,No,7,Churned,Purchase Completed,Converted
+C101,Aarav Khan 101,Loyal,18-25,West,Social Media,Newsletter,27-02-2025,28,No,No,No,No,0,2576,No,5,At Risk,Website Visit,Not Converted
+C102,Vivaan Khan 102,Loyal,60+,North,Direct,Referral Program,10-03-2025,2,Yes,No,No,No,0,1295,No,5,Active,Product Viewed,Not Converted
+C103,Aditya Khan 103,New,26-35,North,Referral,Referral Program,13-04-2025,5,Yes,No,No,No,0,155,No,3,At Risk,Product Viewed,Not Converted
+C104,Vihaan Khan 104,New,46-60,West,Email Marketing,Diwali Campaign,10-02-2025,24,Yes,Yes,No,No,0,2472,No,4,Churned,Add to Cart,Not Converted
+C105,Arjun Khan 105,New,60+,South,Organic Search,Referral Program,21-01-2025,18,Yes,Yes,Yes,Yes,14627,2128,No,7,Active,Purchase Completed,Converted
+C106,Reyansh Khan 106,New,60+,South,Email Marketing,Newsletter,20-03-2025,3,Yes,No,No,No,0,254,No,3,Active,Product Viewed,Not Converted
+C107,Ayaan Khan 107,Lost,26-35,East,Social Media,Diwali Campaign,25-03-2025,8,Yes,No,No,No,0,749,No,4,Churned,Product Viewed,Not Converted
+C108,Krishna Khan 108,Loyal,60+,East,Referral,Referral Program,01-04-2025,5,Yes,No,No,No,0,1816,No,3,Active,Product Viewed,Not Converted
+C109,Ishaan Khan 109,New,36-45,West,Referral,New Year Campaign,27-05-2025,26,Yes,Yes,Yes,Yes,21784,733,No,10,At Risk,Purchase Completed,Converted
+C110,Shaurya Khan 110,At Risk,18-25,East,Email Marketing,Summer Sale,04-03-2025,28,Yes,No,No,No,0,1651,No,5,At Risk,Product Viewed,Not Converted
+C111,Anaya Khan 111,New,26-35,West,Organic Search,Newsletter,30-01-2025,34,Yes,No,No,No,0,1461,No,5,At Risk,Product Viewed,Not Converted
+C112,Diya Khan 112,At Risk,26-35,East,Paid Search,Summer Sale,07-02-2025,17,Yes,No,No,No,0,2714,No,3,Active,Product Viewed,Not Converted
+C113,Aadhya Khan 113,VIP,46-60,North,Email Marketing,Newsletter,29-05-2025,29,Yes,No,No,No,0,2663,No,7,Active,Product Viewed,Not Converted
+C114,Myra Khan 114,Lost,36-45,North,Paid Search,New Year Campaign,18-01-2025,31,Yes,Yes,Yes,Yes,33748,333,No,9,Churned,Purchase Completed,Converted
+C115,Sara Khan 115,New,36-45,West,Social Media,Summer Sale,24-01-2025,40,Yes,Yes,Yes,No,0,198,No,8,Churned,Checkout Started,Not Converted
+C116,Kiara Khan 116,Loyal,26-35,East,Social Media,Newsletter,02-05-2025,33,Yes,Yes,Yes,No,0,1436,No,5,Active,Checkout Started,Not Converted
+C117,Anika Khan 117,New,26-35,East,Direct,New Year Campaign,23-04-2025,34,Yes,Yes,Yes,Yes,27289,1415,No,7,At Risk,Purchase Completed,Converted
+C118,Riya Khan 118,Loyal,18-25,East,Social Media,Summer Sale,23-05-2025,44,Yes,Yes,No,No,0,2498,No,5,Active,Add to Cart,Not Converted
+C119,Siya Khan 119,Loyal,26-35,East,Social Media,Diwali Campaign,11-04-2025,9,Yes,No,No,No,0,1298,No,7,Active,Product Viewed,Not Converted
+C120,Meera Khan 120,VIP,26-35,North,Direct,Referral Program,15-05-2025,6,Yes,Yes,Yes,Yes,12313,907,No,9,Churned,Purchase Completed,Converted
+C121,Aarav Singh 121,Regular,26-35,South,Paid Search,Winter Sale,20-01-2025,19,No,No,No,No,0,444,No,5,At Risk,Website Visit,Not Converted
+C122,Vivaan Singh 122,At Risk,60+,South,Organic Search,Referral Program,28-03-2025,50,Yes,No,No,No,0,661,No,4,Active,Product Viewed,Not Converted
+C123,Aditya Singh 123,Loyal,60+,North,Paid Search,Referral Program,23-04-2025,3,Yes,No,No,No,0,1002,No,6,At Risk,Product Viewed,Not Converted
+C124,Vihaan Singh 124,VIP,46-60,South,Paid Search,Newsletter,03-03-2025,20,No,No,No,No,0,1951,No,2,Active,Website Visit,Not Converted
+C125,Arjun Singh 125,Lost,46-60,West,Email Marketing,Diwali Campaign,08-04-2025,33,Yes,No,No,No,0,847,No,7,At Risk,Product Viewed,Not Converted
+C126,Reyansh Singh 126,Regular,46-60,South,Social Media,Newsletter,27-01-2025,46,No,No,No,No,0,540,No,3,Active,Website Visit,Not Converted
+C127,Ayaan Singh 127,New,46-60,South,Referral,Winter Sale,22-04-2025,6,No,No,No,No,0,939,No,4,Churned,Website Visit,Not Converted
+C128,Krishna Singh 128,Lost,46-60,South,Organic Search,New Year Campaign,09-05-2025,24,Yes,No,No,No,0,1565,No,4,Active,Product Viewed,Not Converted
+C129,Ishaan Singh 129,Lost,36-45,North,Paid Search,Winter Sale,10-01-2025,19,No,No,No,No,0,1965,No,2,Churned,Website Visit,Not Converted
+C130,Shaurya Singh 130,Regular,60+,South,Organic Search,Summer Sale,05-01-2025,17,Yes,Yes,No,No,0,2523,No,7,Active,Add to Cart,Not Converted
+C131,Anaya Singh 131,Regular,36-45,South,Organic Search,Summer Sale,03-03-2025,27,Yes,No,No,No,0,287,No,3,At Risk,Product Viewed,Not Converted
+C132,Diya Singh 132,Regular,60+,North,Organic Search,Referral Program,12-05-2025,37,Yes,Yes,Yes,No,0,1015,No,8,Active,Checkout Started,Not Converted
+C133,Aadhya Singh 133,Loyal,60+,South,Social Media,Summer Sale,15-05-2025,35,Yes,No,No,No,0,2299,No,3,Active,Product Viewed,Not Converted
+C134,Myra Singh 134,Regular,46-60,South,Social Media,Diwali Campaign,05-01-2025,23,No,No,No,No,0,1442,No,2,At Risk,Website Visit,Not Converted
+C135,Sara Singh 135,Loyal,60+,West,Direct,Diwali Campaign,04-02-2025,3,Yes,Yes,Yes,No,0,2834,No,8,Churned,Checkout Started,Not Converted
+C136,Kiara Singh 136,Regular,26-35,East,Paid Search,Summer Sale,28-04-2025,3,Yes,Yes,Yes,Yes,20821,2141,No,10,Churned,Purchase Completed,Converted
+C137,Anika Singh 137,Regular,36-45,North,Organic Search,Referral Program,18-02-2025,19,Yes,No,No,No,0,2715,No,5,Active,Product Viewed,Not Converted
+C138,Riya Singh 138,VIP,46-60,West,Email Marketing,Referral Program,23-04-2025,25,Yes,Yes,No,No,0,1534,No,6,At Risk,Add to Cart,Not Converted
+C139,Siya Singh 139,Loyal,18-25,East,Email Marketing,Newsletter,16-02-2025,35,Yes,Yes,Yes,Yes,29723,2498,No,10,Active,Purchase Completed,Converted
+C140,Meera Singh 140,Regular,46-60,South,Organic Search,Referral Program,01-04-2025,40,No,No,No,No,0,1154,No,1,Active,Website Visit,Not Converted
+C141,Aarav Mehta 141,Loyal,36-45,North,Referral,Referral Program,10-02-2025,2,Yes,No,No,No,0,1824,No,3,Active,Product Viewed,Not Converted
+C142,Vivaan Mehta 142,New,36-45,East,Social Media,New Year Campaign,26-05-2025,3,Yes,No,No,No,0,1549,No,5,Active,Product Viewed,Not Converted
+C143,Aditya Mehta 143,New,26-35,North,Referral,Diwali Campaign,12-04-2025,21,Yes,Yes,Yes,No,0,2074,No,8,Churned,Checkout Started,Not Converted
+C144,Vihaan Mehta 144,New,36-45,North,Direct,New Year Campaign,24-02-2025,40,Yes,No,No,No,0,2041,No,4,Active,Product Viewed,Not Converted
+C145,Arjun Mehta 145,At Risk,46-60,South,Paid Search,Referral Program,24-04-2025,6,No,No,No,No,0,1339,No,3,At Risk,Website Visit,Not Converted
+C146,Reyansh Mehta 146,Regular,36-45,South,Social Media,Winter Sale,14-02-2025,24,Yes,Yes,Yes,Yes,32876,137,No,9,Active,Purchase Completed,Converted
+C147,Ayaan Mehta 147,Regular,60+,East,Paid Search,Newsletter,23-01-2025,5,Yes,No,No,No,0,2974,No,6,Active,Product Viewed,Not Converted
+C148,Krishna Mehta 148,VIP,60+,North,Organic Search,Winter Sale,23-03-2025,42,Yes,No,No,No,0,2149,No,5,Active,Product Viewed,Not Converted
+C149,Ishaan Mehta 149,At Risk,60+,South,Direct,Newsletter,16-02-2025,50,No,No,No,No,0,1802,No,5,Churned,Website Visit,Not Converted
+C150,Shaurya Mehta 150,New,18-25,North,Referral,Winter Sale,19-03-2025,11,Yes,No,No,No,0,953,No,5,Churned,Product Viewed,Not Converted
+C151,Anaya Mehta 151,Regular,36-45,East,Organic Search,Diwali Campaign,20-02-2025,41,No,No,No,No,0,1154,No,2,At Risk,Website Visit,Not Converted
+C152,Diya Mehta 152,Loyal,18-25,South,Referral,Referral Program,13-02-2025,38,No,No,No,No,0,661,No,2,At Risk,Website Visit,Not Converted
+C153,Aadhya Mehta 153,Loyal,60+,North,Social Media,Newsletter,11-01-2025,2,Yes,No,No,No,0,2392,No,5,At Risk,Product Viewed,Not Converted
+C154,Myra Mehta 154,VIP,46-60,South,Referral,Referral Program,08-01-2025,32,No,No,No,No,0,2264,No,3,At Risk,Website Visit,Not Converted
+C155,Sara Mehta 155,Regular,26-35,South,Direct,New Year Campaign,18-03-2025,30,Yes,Yes,Yes,Yes,13870,1423,No,8,Active,Purchase Completed,Converted
+C156,Kiara Mehta 156,Loyal,36-45,South,Email Marketing,Winter Sale,05-04-2025,33,Yes,Yes,Yes,Yes,16747,607,No,7,Active,Purchase Completed,Converted
+C157,Anika Mehta 157,Lost,60+,North,Email Marketing,Winter Sale,10-02-2025,21,No,No,No,No,0,2983,No,3,At Risk,Website Visit,Not Converted
+C158,Riya Mehta 158,New,60+,South,Email Marketing,New Year Campaign,20-03-2025,32,Yes,No,No,No,0,2100,No,6,Churned,Product Viewed,Not Converted
+C159,Siya Mehta 159,New,36-45,West,Organic Search,Summer Sale,14-03-2025,32,Yes,No,No,No,0,2784,No,6,Active,Product Viewed,Not Converted
+C160,Meera Mehta 160,New,18-25,West,Email Marketing,Winter Sale,09-03-2025,47,Yes,Yes,Yes,Yes,37319,827,No,9,Active,Purchase Completed,Converted
+C161,Aarav Nair 161,New,60+,South,Email Marketing,Newsletter,13-03-2025,40,Yes,Yes,No,No,0,1643,No,6,At Risk,Add to Cart,Not Converted
+C162,Vivaan Nair 162,Regular,36-45,West,Paid Search,Winter Sale,04-06-2025,33,Yes,Yes,Yes,No,0,1970,No,8,Active,Checkout Started,Not Converted
+C163,Aditya Nair 163,At Risk,26-35,North,Social Media,Newsletter,23-03-2025,11,Yes,No,No,No,0,1255,No,7,Active,Product Viewed,Not Converted
+C164,Vihaan Nair 164,At Risk,60+,West,Email Marketing,Referral Program,25-05-2025,20,Yes,Yes,Yes,Yes,27798,2420,No,9,At Risk,Purchase Completed,Converted
+C165,Arjun Nair 165,Loyal,18-25,South,Referral,New Year Campaign,09-03-2025,42,No,No,No,No,0,2399,No,5,Active,Website Visit,Not Converted
+C166,Reyansh Nair 166,New,46-60,West,Paid Search,Newsletter,08-06-2025,50,No,No,No,No,0,635,No,2,Active,Website Visit,Not Converted
+C167,Ayaan Nair 167,Lost,18-25,North,Paid Search,Summer Sale,23-04-2025,21,Yes,Yes,Yes,Yes,40573,1961,No,7,Churned,Purchase Completed,Converted
+C168,Krishna Nair 168,Regular,60+,North,Social Media,Referral Program,03-05-2025,34,Yes,No,No,No,0,1912,No,7,Active,Product Viewed,Not Converted
+C169,Ishaan Nair 169,Regular,36-45,South,Referral,New Year Campaign,19-02-2025,16,Yes,Yes,No,No,0,1249,No,6,At Risk,Add to Cart,Not Converted
+C170,Shaurya Nair 170,Loyal,46-60,East,Social Media,New Year Campaign,31-03-2025,36,No,No,No,No,0,2985,No,3,Active,Website Visit,Not Converted
+C171,Anaya Nair 171,Loyal,60+,South,Email Marketing,New Year Campaign,30-03-2025,50,No,No,No,No,0,1219,No,1,Active,Website Visit,Not Converted
+C172,Diya Nair 172,Loyal,36-45,North,Email Marketing,Referral Program,07-03-2025,48,Yes,Yes,Yes,No,0,2881,No,7,Active,Checkout Started,Not Converted
+C173,Aadhya Nair 173,Loyal,60+,South,Paid Search,Winter Sale,13-01-2025,43,No,No,No,No,0,954,No,2,Active,Website Visit,Not Converted
+C174,Myra Nair 174,Regular,46-60,West,Organic Search,Referral Program,05-02-2025,1,No,No,No,No,0,676,Yes,4,At Risk,Website Visit,Not Converted
+C175,Sara Nair 175,At Risk,46-60,West,Email Marketing,Referral Program,21-02-2025,49,No,No,No,No,0,1345,No,3,At Risk,Website Visit,Not Converted
+C176,Kiara Nair 176,At Risk,18-25,North,Direct,Newsletter,01-03-2025,35,Yes,No,No,No,0,182,No,4,Active,Product Viewed,Not Converted
+C177,Anika Nair 177,At Risk,18-25,East,Email Marketing,New Year Campaign,17-02-2025,48,No,No,No,No,0,1215,No,1,Active,Website Visit,Not Converted
+C178,Riya Nair 178,Loyal,18-25,West,Social Media,Diwali Campaign,27-04-2025,42,Yes,No,No,No,0,579,No,7,Active,Product Viewed,Not Converted
+C179,Siya Nair 179,New,18-25,East,Social Media,Winter Sale,28-04-2025,42,Yes,Yes,No,No,0,1238,No,5,Active,Add to Cart,Not Converted
+C180,Meera Nair 180,At Risk,46-60,East,Email Marketing,Newsletter,25-03-2025,6,Yes,Yes,No,No,0,1985,No,6,Churned,Add to Cart,Not Converted
+C181,Aarav Iyer 181,New,46-60,North,Paid Search,New Year Campaign,10-03-2025,22,Yes,No,No,No,0,76,No,5,At Risk,Product Viewed,Not Converted
+C182,Vivaan Iyer 182,Loyal,18-25,North,Direct,Summer Sale,30-04-2025,20,Yes,No,No,No,0,2911,No,5,At Risk,Product Viewed,Not Converted
+C183,Aditya Iyer 183,Loyal,36-45,North,Social Media,Newsletter,26-02-2025,15,No,No,No,No,0,1988,No,2,Active,Website Visit,Not Converted
+C184,Vihaan Iyer 184,Lost,36-45,North,Email Marketing,Referral Program,21-05-2025,31,No,No,No,No,0,2750,No,2,Churned,Website Visit,Not Converted
+C185,Arjun Iyer 185,Loyal,60+,North,Organic Search,Newsletter,25-04-2025,34,Yes,Yes,Yes,Yes,36390,2100,No,8,Active,Purchase Completed,Converted
+C186,Reyansh Iyer 186,New,36-45,South,Referral,New Year Campaign,30-01-2025,44,Yes,No,No,No,0,402,No,7,Active,Product Viewed,Not Converted
+C187,Ayaan Iyer 187,New,26-35,East,Referral,New Year Campaign,27-04-2025,37,Yes,No,No,No,0,1292,No,3,Active,Product Viewed,Not Converted
+C188,Krishna Iyer 188,At Risk,26-35,North,Referral,Summer Sale,12-01-2025,28,Yes,Yes,No,No,0,312,No,7,Active,Add to Cart,Not Converted
+C189,Ishaan Iyer 189,Regular,26-35,East,Direct,Referral Program,18-04-2025,24,No,No,No,No,0,1596,No,4,Churned,Website Visit,Not Converted
+C190,Shaurya Iyer 190,At Risk,46-60,West,Organic Search,Referral Program,19-05-2025,9,Yes,Yes,Yes,Yes,35158,551,No,8,At Risk,Purchase Completed,Converted
+C191,Anaya Iyer 191,VIP,36-45,North,Email Marketing,Referral Program,20-05-2025,28,Yes,No,No,No,0,1043,No,6,Active,Product Viewed,Not Converted
+C192,Diya Iyer 192,Regular,18-25,West,Organic Search,Referral Program,18-04-2025,40,No,No,No,No,0,94,No,2,Active,Website Visit,Not Converted
+C193,Aadhya Iyer 193,New,18-25,North,Email Marketing,Newsletter,13-01-2025,16,Yes,Yes,Yes,Yes,4199,603,No,9,Active,Purchase Completed,Converted
+C194,Myra Iyer 194,At Risk,60+,North,Social Media,Newsletter,03-06-2025,50,Yes,Yes,Yes,Yes,43767,2165,No,8,Active,Purchase Completed,Converted
+C195,Sara Iyer 195,Regular,60+,South,Referral,Referral Program,14-02-2025,41,Yes,No,No,No,0,222,No,5,Churned,Product Viewed,Not Converted
+C196,Kiara Iyer 196,Loyal,60+,South,Social Media,Referral Program,17-04-2025,27,Yes,Yes,No,No,0,1969,No,5,At Risk,Add to Cart,Not Converted
+C197,Anika Iyer 197,Regular,26-35,West,Email Marketing,Summer Sale,24-05-2025,27,No,No,No,No,0,2312,No,5,Active,Website Visit,Not Converted
+C198,Riya Iyer 198,New,26-35,North,Social Media,Referral Program,21-01-2025,29,No,No,No,No,0,408,No,5,At Risk,Website Visit,Not Converted
+C199,Siya Iyer 199,New,36-45,North,Email Marketing,Referral Program,04-06-2025,39,Yes,Yes,No,No,0,2436,No,5,Active,Add to Cart,Not Converted
+C200,Meera Iyer 200,At Risk,36-45,West,Social Media,Summer Sale,24-02-2025,13,No,No,No,No,0,510,No,4,Churned,Website Visit,Not Converted
