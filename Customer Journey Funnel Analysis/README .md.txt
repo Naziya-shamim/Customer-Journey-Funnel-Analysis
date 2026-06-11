@@ -56,7 +56,7 @@ E-commerce and marketing teams need to understand where customers drop off in th
 ## 📸 Dashboard Screenshots
 ![Dashboard Overview](https://raw.githubusercontent.com/Naziya-shamim/Customer-Journey-Funnel-Analysis/main/Dashboard_Overview.png)
 
-![Insights Page](https://raw.githubusercontent.com/Naziya-shamim/Customer-Journey-Funnel-Analysis/main/Insight_Page.png)
+![Insights Page](https://github.com/Naziya-shamim/Customer-Journey-Funnel-Analysis/blob/main/Customer%20Journey%20Funnel%20Analysis/Screenshorts/Insight_Page.png)
 ## 📁 Files in Repository
 - `Dataset/customer_journey_data.csv`
 - `PowerBI/Customer_Journey_Funnel_Analysis.pbix`
